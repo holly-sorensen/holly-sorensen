@@ -1,4 +1,4 @@
-# Hey there, I'm Holly 🐛
+# Hello there traveler! I'm Holly 🐛
 
 **Research Associate** at San Diego Zoo Wildlife Alliance | Learning to program in Python
 
